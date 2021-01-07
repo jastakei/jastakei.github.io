@@ -22,11 +22,12 @@ cout << "Hello, World!"" endl;
 - ARM
 ### Top 3 Favorite Languages 
 1. C++
-  - Most Skilled
+   - Most Skilled
+     - Proficient
 2. Java
-  - Proficient 
+   - Proficient 
 3. C
-  - Proficient
+   - Proficient
   
 ### Things I Want to do Before I Graduate
 - [x] explore San Diego
