@@ -1,5 +1,5 @@
 ## [About Me](README.md)
-![Alt text](/Users/jasminetakei/Downloads/Headshot.JPG)
+![idk](/Users/jasminetakei/Downloads/Headshot.JPG)
 ### Summary
 Currently, I am seeking a software engineering summer internship for the year of 2021. My primary interests and strong foundations are in programming logic, object-oriented design, and computer organization. I am energetic, highly sociable, and passionate about working as a team and as well as independently. If I sound like a good fit, please contact me at **jtakei@ucsd.edu**.  
   
@@ -21,6 +21,7 @@ cout << "Hello, World!"" endl;
 -	HTML
 - GitHub
 - ARM
+   
 ### Top 3 Favorite Languages   
 
 1. C++
