@@ -21,7 +21,8 @@ cout << "Hello, World!"" endl;
 -	HTML
 - GitHub
 - ARM
-### Top 3 Favorite Languages 
+### Top 3 Favorite Languages   
+
 1. C++
    - Most Skilled
      - Proficient  
