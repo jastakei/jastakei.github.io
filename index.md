@@ -1,4 +1,5 @@
 ## [About Me](README.md)
+![](0DEDCC0C-2C2A-4606-A707-5AE08E01264D.JPEG)
 ### Summary
 Currently, I am seeking a software engineering summer internship for the year of 2021. My primary interests and strong foundations are in programming logic, object-oriented design, and computer organization. I am energetic, highly sociable, and passionate about working as a team and as well as independently. If I sound like a good fit, please contact me at **jtakei@ucsd.edu**.  
   
@@ -32,10 +33,10 @@ cout << "Hello, World!"" endl;
    - Proficient  
   
 ### Things I Want to do Before I Graduate
-- [x]  Explore San Diego:beach_umbrella:
-- [x]  Join clubs:globe_with_meridians:
+- [x]  Explore San Diego :beach_umbrella:
+- [x]  Join clubs :globe_with_meridians:
 - [ ]  Learn to surf :surfing_woman:
-- [ ]  Get an internship:books:
-- [ ]  Study abroad:airplane:
+- [ ]  Get an internship :books:
+- [ ]  Study abroad :airplane:
 
 
