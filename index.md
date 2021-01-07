@@ -1,5 +1,5 @@
 ## About Me
-### [Summary](README.md)
+### [Summary](README.md#Jasmine Takei's User Page)
 Currently, I am seeking a software engineering summer internship for the year of 2021. My primary interests and strong foundations are in programming logic, object-oriented design, and computer organization. I am energetic, highly sociable, and passionate about working as a team and as well as independently. If I sound like a good fit, please contact me at **jtakei@ucsd.edu**.  
   
 *My favorite quote is:*
