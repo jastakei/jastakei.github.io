@@ -6,10 +6,10 @@ Currently, I am seeking a software engineering summer internship for the year of
 *My favorite quote is:*
 > Ego says once everything falls into place, I'll feel peace. The Soul sys find your peace and then everything will fall into place.
 
-You can read into the meaning about it [here](https://www.huffpost.com/entry/why-finding-peace-first-a_b_8761164).
+You can read more into the meaning about it [here](https://www.huffpost.com/entry/why-finding-peace-first-a_b_8761164).
 ### ~~A C++ Command I guess:~~
 ```
-cout << "Hello, World!"" endl;
+cout << "Hello, World!" << endl;
 ```
 ### Skills  
 -	C++
