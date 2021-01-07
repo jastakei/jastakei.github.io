@@ -23,17 +23,19 @@ cout << "Hello, World!"" endl;
 ### Top 3 Favorite Languages 
 1. C++
    - Most Skilled
-     - Proficient
+     - Proficient  
+
 2. Java
-   - Proficient 
+   - Proficient   
+
 3. C
-   - Proficient
+   - Proficient  
   
 ### Things I Want to do Before I Graduate
-- [x] explore San Diego
-- [x] join clubs
-- [ ] learn to surf
-- [ ] get an internship
-- [ ] study abroad
+- [x]  Explore San Diego:beach_umbrella:
+- [x]  Join clubs:globe_with_meridians:
+- [ ]  Learn to surf :surfing_woman:
+- [ ]  Get an internship:books:
+- [ ]  Study abroad:airplane:
 
 
