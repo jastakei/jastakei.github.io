@@ -1,5 +1,5 @@
 ## [About Me](README.md)
-![idk](/Users/jasminetakei/Downloads/Headshot.JPG)
+![idk](https://images.ctfassets.net/ujl8rfpmh7ux/1Psjye9iUSoIAVVWOVfsXj/61798bf43d5d1f98d8758bc328440a0d/sebastien-gabriel--IMlv9Jlb24-unsplash.jpg)
 ### Summary
 Currently, I am seeking a software engineering summer internship for the year of 2021. My primary interests and strong foundations are in programming logic, object-oriented design, and computer organization. I am energetic, highly sociable, and passionate about working as a team and as well as independently. If I sound like a good fit, please contact me at **jtakei@ucsd.edu**.  
   
