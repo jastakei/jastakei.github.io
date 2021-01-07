@@ -1,5 +1,5 @@
-## About Me
-### [Summary](README.md)
+## [About Me](README.md)
+### Summary
 Currently, I am seeking a software engineering summer internship for the year of 2021. My primary interests and strong foundations are in programming logic, object-oriented design, and computer organization. I am energetic, highly sociable, and passionate about working as a team and as well as independently. If I sound like a good fit, please contact me at **jtakei@ucsd.edu**.  
   
 *My favorite quote is:*
@@ -10,6 +10,29 @@ You can read into the meaning about it [here](https://www.huffpost.com/entry/why
 ```
 cout << "Hello, World!"" endl;
 ```
-###
+### Skills  
+-	C++
+-	Java
+-	C
+-	Bash
+-	MATLAB
+-	LATEX
+-	HTML
+- GitHub
+- ARM
+### Top 3 Favorite Languages 
+1. C++
+  - Most Skilled
+2. Java
+  - Proficient 
+3. C
+  - Proficient
+  
+### Things I Want to do Before I Graduate
+- [x] explore San Diego
+- [x] join clubs
+- [ ] learn to surf
+- [ ] get an internship
+- [ ] study abroad
 
 
